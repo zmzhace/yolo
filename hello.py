@@ -1,1 +1,1 @@
-print("yolo")
+print("yolo merged instantly")
